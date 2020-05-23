@@ -1,3 +1,4 @@
+
 package com.akshay.practice.HashSetDemo;
 
 
@@ -32,7 +33,7 @@ public class HashSetDemo {
 		System.out.println("====================================================");
 		hashSet.forEach(akshay -> {System.out.println(akshay);});
 		
-		System.out.println("====================================================");
+		
 		
 		//hashSet.forEach(System.out::println());
 		
